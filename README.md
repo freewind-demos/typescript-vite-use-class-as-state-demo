@@ -1,9 +1,9 @@
-TypeScript Vite React Demo
+TypeScript Vite React Use Class as State Demo
 ===========================
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 It will open page on browser automatically.
